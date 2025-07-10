@@ -1,17 +1,17 @@
 [tool.poetry]
-name = "get-papers-list"
+name = "get-papers-list-dkv"
 version = "0.1.0"
 description = "CLI tool to fetch PubMed papers with non-academic authors"
-authors = ["Your Name <you@example.com>"]
+authors = ["Dhanushkumar V <dhanushkumar558@gmail.com>"]
 packages = [{ include = "get_papers", from = "src" }]
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = ">=3.9,<4.0"
-
 requests = "^2.32.0"
 typer = "^0.12.3"
 pandas = "^2.2.2"
 biopython = "^1.83"
 
 [tool.poetry.scripts]
-get-papers-list = "cli:app"
+get-papers-list = "get_papers.cli:app"
