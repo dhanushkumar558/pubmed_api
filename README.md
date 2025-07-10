@@ -115,7 +115,7 @@ This project was developed with assistance from **ChatGPT (OpenAI)** for:
 - Building the academic vs non-academic filtering  
 - Error handling and documentation generation  
 
-👉 [Link to ChatGPT Conversation Transcript](<insert-your-link-here>)
+👉 [Link to ChatGPT Conversation Transcript](https://chatgpt.com/share/686e86b5-8454-800a-938e-d71faa5a7cb4)
 
 ---
 
